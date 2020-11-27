@@ -22,7 +22,13 @@ const sayings = [
     'the burning goes away',
     'the cookies are done',
     'they bring back the McD.L.T.',
-    `Mark Yendt pulls the latex mask off and I realize I've actually been learning about binary trees from Robert Plant`
+    `Mark Yendt pulls the latex mask off and I realize I've actually been learning about binary trees from Robert Plant`,
+    'all your base are belong to us',
+    'my data structures nightmares end',
+    'internal error 500',
+    'Steve Adams solves his gambling games addiction',
+    '70s star wars disco comes back'
+    
 ]
 
 function switchText(){
